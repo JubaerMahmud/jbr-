@@ -1,2 +1,2 @@
 # jbr-
-jbr repo
+jbr repo for git commands demonstration 
